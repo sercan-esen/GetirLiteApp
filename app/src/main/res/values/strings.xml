@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetirLiteApp</string>
+    <string name="products_name">Ürünler</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temp_basket_price_txt">₺0.00</string>
+</resources>
